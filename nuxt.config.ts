@@ -8,4 +8,7 @@ export default defineNuxtConfig({
         plugins: [
           tailwindcss(),    
       ],},
+    runtimeConfig:{
+      key_mama: process.env.API_KEY
+    }
 })
