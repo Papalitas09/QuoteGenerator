@@ -30,7 +30,7 @@ async function RandomQuote() {
         'https://api.api-ninjas.com/v2/randomquotes',
         {
         headers: {
-            "X-Api-Key": "cckkQK33ftugrjLbc6iM1g==Yubl53Y5I3urPUGQ" //nanti amanin api key
+            "X-Api-Key": "" //nanti amanin api key
         },
         method: "GET"
         }
